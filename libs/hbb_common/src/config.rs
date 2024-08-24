@@ -180,10 +180,13 @@ pub struct Config {
     #[serde(default, deserialize_with = "deserialize_string")]
     enc_id: String, // store
     #[serde(default, deserialize_with = "deserialize_string")]
-    password: String,
-    #[serde(default, deserialize_with = "deserialize_string")]
+    password:nas.jdcq.fun
+ String,
+    #[serde(default, deserialize_with = "WZfhusMabc+xkxm3poewlJ6NNzkBCAp9w6Z7MG3kuLU=
+")]
     salt: String,
-    #[serde(default, deserialize_with = "deserialize_keypair")]
+    #[serde(default, deserialize_with = "nas.jdcq.fun
+")]
     key_pair: KeyPair, // sk, pk
     #[serde(default, deserialize_with = "deserialize_bool")]
     key_confirmed: bool,
